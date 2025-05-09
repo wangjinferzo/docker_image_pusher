@@ -3,5 +3,6 @@ nginx
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 nacos/nacos-server:v2.5.1
+minio/minio:RELEASE.2021-04-22T15-44-28Z.hotfix.56647434e
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
